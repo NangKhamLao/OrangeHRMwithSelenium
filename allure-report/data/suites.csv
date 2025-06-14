@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21278","test_add_admin[lily3-admin123-admin124-Passwords do not match]","","Sun Jun 01 13:50:35 GMT+06:30 2025","broken","Sun Jun 01 13:50:56 GMT+06:30 2025","","test_admin","",""
+"","19531","test_add_admin[lily-admin123-admin123-Should be at least 5 characters]","","Sun Jun 01 13:50:10 GMT+06:30 2025","broken","Sun Jun 01 13:50:29 GMT+06:30 2025","","test_admin","",""
+"","19999","test_add_admin[lily2-admin-admin-Should have at least 7 characters]","","Sun Jun 01 13:49:43 GMT+06:30 2025","broken","Sun Jun 01 13:50:03 GMT+06:30 2025","","test_admin","",""
+"","19469","test_add_admin[lily1-admin123-admin123-]","","Sun Jun 01 13:49:17 GMT+06:30 2025","broken","Sun Jun 01 13:49:37 GMT+06:30 2025","","test_admin","",""
+"","20104","test_add_admin[---Required]","","Sun Jun 01 13:51:03 GMT+06:30 2025","broken","Sun Jun 01 13:51:23 GMT+06:30 2025","","test_admin","",""
